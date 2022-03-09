@@ -4,7 +4,7 @@ Description
 
 I am a baseline to configure the Tiny logger project.
 
-https://github.com/jecisc/TinyLogger
+https://github.com/CodaxisSoftware/TinyLogger
 "
 Class {
 	#name : #BaselineOfTinyLogger,
